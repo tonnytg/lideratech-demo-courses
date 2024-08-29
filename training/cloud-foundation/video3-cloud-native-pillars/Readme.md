@@ -3,6 +3,11 @@
 De acordo com o Livro Cloud Native DevOps with Kubernetes você precisa atender alguns pilares para ser Cloud Native.<br />
 https://amzn.to/3LH7C7L
 
+## Video
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/bCQtP87Di_w/0.jpg)](https://www.youtube.com/watch?v=bCQtP87Di_w)
+
+
 ## Pilares
 
 - Pássivel de Automação

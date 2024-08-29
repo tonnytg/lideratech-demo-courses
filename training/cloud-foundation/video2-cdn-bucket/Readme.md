@@ -3,6 +3,13 @@
 O Bucket permite que você suba um site e disponibilize ele para o mundo inteiro com se fosse uma CDN.<br />
 Você pode usar esse recurso para validar idéias e demos para os seus clientes de forma rápida.
 
+
+### Video
+
+[![Assista ao vídeo no YouTube](https://img.youtube.com/vi/SSafDMkiBJQ/0.jpg)](https://www.youtube.com/watch?v=SSafDMkiBJQ&t)
+
+
+
 ### How to
 
 Se autentique na GCP
